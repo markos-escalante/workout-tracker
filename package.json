@@ -1,5 +1,5 @@
 {
-  "name": "workoutTracker",
+  "name": "workout-tracker",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/markos-escalante/workoutTracker.git"
+    "url": "git+https://github.com/markos-escalante/workout-tracker.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/markos-escalante/workoutTracker/issues"
+    "url": "https://github.com/markos-escalante/workout-tracker/issues"
   },
-  "homepage": "https://github.com/markos-escalante/workoutTracker#readme",
+  "homepage": "https://github.com/markos-escalante/workout-tracker#readme",
   "dependencies": {
     "express": "^4.17.1",
     "mongoose": "^5.11.17",
